@@ -2,8 +2,8 @@
 
 ![Image](https://github.com/BehindTheSciences/ili9341_SPI_TouchScreen_LCD_Raspberry-Pi/blob/master/ili9341_RPi.jpg)
 
-#Wiring
-
+# Wiring
+![WiringImage](https://github.com/BehindTheSciences/ili9341_SPI_TouchScreen_LCD_Raspberry-Pi/blob/master/ili9341_Pi_connections.png)
 
 # Basic Demo
 python BTS_SPI_LCD_DEMO.py
@@ -23,4 +23,6 @@ You should see:
 /dev/spidev0.1
 /dev/spidev1.0
 
+Visit:
 https://behindthesciences.com/electronics/connecting-ili9341-SPI-TouchScreen-lcd-to-a-raspberry-pi-in-python/
+For additional info
